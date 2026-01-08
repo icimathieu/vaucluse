@@ -17,6 +17,7 @@ data/
 *.jpeg
 *.jpg
 *.txt
+*.json
 
 # Fichiers système
 .DS_Store
