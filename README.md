@@ -19,9 +19,7 @@ Les fichiers de données se trouvent dans `data/` (JSON, CSV, images, sorties in
 
 ## Dépendances
 
-Les dépendances ne sont pas listées dans `requirements.txt` ni `requirements-min.txt`.
-
-Seul le fichier `georeferencement_5m_mathias_garnier.py` a été réalisé par Mathias Garnier.
+Les dépendances sont listées dans `requirements.txt` et `requirements-min.txt` pour tous les notebooks à l'exception `Géoréférencement_nomitim_carto.ipynb` qui est un google colab. Le fichier `georeferencement_5m_mathias_garnier.py` a été réalisé par Mathias Garnier et les dépendances ne sont pas dans `requirements.txt` ni `requirements-min.txt`. Quant à `script_cartes_postales.py`, les dépendances sont en commentaire au début du script. 
 
 ## Notes
 
