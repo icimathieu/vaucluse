@@ -16,7 +16,6 @@ data/
 *.csv
 *.jpeg
 *.jpg
-*.txt
 *.json
 *.html
 
