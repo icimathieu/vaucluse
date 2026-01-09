@@ -18,8 +18,11 @@ data/
 *.jpg
 *.txt
 *.json
+*.html
 
 # Fichiers système
 .DS_Store
 __pycache__/
 *.pyc
+
+# Autre
