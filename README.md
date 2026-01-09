@@ -19,10 +19,11 @@ Les fichiers de données se trouvent dans `data/` (JSON, CSV, images, sorties in
 
 ## Dépendances
 
-Les dépendances **ne sont pas listées dans `requirements.txt`** (ou peuvent être incomplètes), car l’environnement a évolué au fil des essais. Si besoin, générez une liste depuis le venv local.
+Les dépendances ne sont pas listées dans `requirements.txt` ni `requirements-min.txt`.
+
+Seul le fichier `georeferencement_5m_mathias_garnier.py` a été réalisé par Mathias Garnier.
 
 ## Notes
 
 - Certains notebooks ont été exécutés dans des environnements différents (local vs Colab).
 - Les chemins et sources de données peuvent nécessiter une adaptation locale.
-
