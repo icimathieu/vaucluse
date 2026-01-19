@@ -5,19 +5,14 @@ env/
 
 # Outputs / résultats
 output/
-outputs/
-figures/
-data_test/
 data_not_to_git/
+out_vaucluse_chahan/
+output_data/
+cache/
+data/precision_geoguessr/
 
 # Fichiers générés
 *.png
-*.jpg
-*.csv
-*.jpeg
-*.jpg
-*.json
-*.html
 
 # Fichiers système
 .DS_Store
