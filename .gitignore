@@ -13,6 +13,7 @@ data/precision_geoguessr/
 
 # Fichiers générés
 *.png
+*.pptx
 
 # Fichiers système
 .DS_Store
