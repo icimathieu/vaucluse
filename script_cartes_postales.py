@@ -122,8 +122,6 @@ print(f"\nFichier JSON sauvegardé ici : {output_json_path}")
 ####### ETAPE 2 : INDEXATION DANS 3 CLASSES GEO AVEC QWEN ET RECHERCHE WEB
 ######################################################
 
-
-
 import os
 import json
 import re
@@ -230,7 +228,7 @@ for i, entry in enumerate(data_sources):
         memoire_monuments[cache_key_m] = monument_final
         print(f"💾 CACHE MONUMENT : {monument_final}")
 
-    # --- ÉTAPE 3 : VALIDATION TOPO ---
+    # --- ÉTAPE 3 : VALIDATION TOPO (inutile étant donné qu'on a pas réussi à le faire fonctionner correctement)---
     sujet_h = info.get('hamlet', 'Inconnu')
     h_norm = normalize_text(sujet_h)
     cache_key_h = (city, h_norm)
