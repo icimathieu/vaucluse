@@ -2,8 +2,8 @@
 
 Ce dépôt regroupe des notebooks et scripts utilisés pour l’extraction, le nettoyage, et le géoréférencement de métadonnées et de cartes postales du Vaucluse dans le cadre du Hackathon 2026 de l'École nationale des chartes (ENC).
 
-## Contenu principal
-
+## Scripts et notebooks python 
+dans `scripts_notebooks/`
 - `scraping_urls.ipynb` : collecte d’URLs à aller scraper, un par carte postale.
 - `scraping_metadata.ipynb` : scraping des métadonnées à partir de la liste d'URLs. 
 - `identification_lieu-dit.ipynb` : préparation/filtrage de base de données (JSON/CSV) à implémenter dans la pipeline avec QWEN. Nettoyage réussi mais infructueux. 
