@@ -4,14 +4,14 @@ Ce dépôt regroupe des notebooks et scripts utilisés pour l’extraction, le n
 
 ## Contenu principal
 
-- `scraping_urls.ipynb` : collecte d’URLs.
-- `scraping_metadata.ipynb` : scraping des métadonnées.
-- `identification_lieu-dit.ipynb` : préparation/filtrage de référentiels (JSON/CSV).
-- `georeferencement_osmnx.ipynb` : géocodage avec OSMNX.
+- `scraping_urls.ipynb` : collecte d’URLs à aller scraper, un par carte postale.
+- `scraping_metadata.ipynb` : scraping des métadonnées à partir de la liste d'URLs. 
+- `identification_lieu-dit.ipynb` : préparation/filtrage de base de données (JSON/CSV) à implémenter dans la pipeline avec QWEN. Nettoyage réussi mais infructueux. 
+- `georeferencement_osmnx.ipynb` : géocodage avec OSMNX (moins performant que nomitim).
 - `georeferencement_5m_mathias_garnier.py` : script de géoréférencement réalisé par https://github.com/MathiasGarnier.
-- `script_cartes_postales.py` : pipeline de traitement OCR/transcription.
-- `corpus_benchmark.ipynb` : 
-- `Géoréférencement_nomitim_carto.ipynb` : notebook **prévu pour Google Colab**.
+- `script_cartes_postales.py` : pipeline de traitement OCR/transcription avec QWEN3 VL, identification communes, lieux-dits, monuments avec recherche web.
+- `corpus_benchmark.ipynb` : à partir des 84 cartes traitées avec QWEN3 VL, on a défini une vérité de terrain manuellement pour benchmarker notre baseline.
+- `Géoréférencement_nomitim_carto.ipynb` : notebook **prévu pour Google Colab** pour géolocaliser les monuments, lieux-dits puis créer la carte en html.
 
 ## Données
 
