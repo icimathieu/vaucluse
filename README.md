@@ -9,15 +9,16 @@ dans `scripts_notebooks/`
 - `identification_lieu-dit.ipynb` : préparation/filtrage de base de données (JSON/CSV) à implémenter dans la pipeline avec QWEN. Nettoyage réussi mais infructueux. 
 - `georeferencement_osmnx.ipynb` : géocodage avec OSMNX (moins performant que nomitim).
 - `georeferencement_5m_mathias_garnier.py` : script de géoréférencement réalisé par https://github.com/MathiasGarnier.
-- `script_cartes_postales.py` : pipeline de traitement OCR/transcription avec QWEN3 VL, identification communes, lieux-dits, monuments avec recherche web.
+- `script_cartes_postales.py` : pipeline de traitement OCR/transcription avec QWEN3 VL, identification communes, lieux-dits, monuments avec recherche web. Script dérivé du Google colab : `etapes1-2_QWEN3.ipynb`.
 - `corpus_benchmark.ipynb` : à partir des 84 cartes traitées avec QWEN3 VL, on a défini une vérité de terrain manuellement pour benchmarker notre baseline.
-- `Géoréférencement_nomitim_carto.ipynb` : notebook **prévu pour Google Colab** pour géolocaliser les monuments, lieux-dits puis créer la carte en html.
+- `Géoréférencement_nominatim_carto.ipynb` : notebook **prévu pour Google Colab** pour géolocaliser les monuments, lieux-dits puis créer la carte en html.
 
 ## Données
 
 Les fichiers de données se trouvent dans `data/` (JSON, CSV, images, sorties intermédiaires).
-- `metadata_web_complet.json` : résultat du scraping des métadonnées sur le site des archives du Vaucluse.
+- dans `métadonnées` : `metadata_output_merged.json` : résultat du scraping des métadonnées sur le site des archives du Vaucluse et output de la pipeline avec QWEN3 VL. `vaucluse_georef_nominatim3.csv` : le même fichier auquel s'ajoute les coordonnées des monuments, lieux-dits si trouvés par nominatim (avec condition de distance pour qu'il n'y ait pas de données aberrantes). 
 - dans `précision_geoguessr` les résultats obtenus par https://github.com/MathiasGarnier avec son script `georeferencement_5m_mathias_garnier.py`.
+- `carte_vaucluse_interactive4.5.html` : la carte interactive avec popup et métadonnées des cartes postales (images comprises!), placées en fonction du meilleur degré de précision.
 
 ## Dépendances
 
