@@ -1,0 +1,674 @@
+[
+  {
+    "file_name": "FRAD084_07FI003_0027.jpg",
+    "city": "Apt",
+    "monument_uniformise": "Aucun monument",
+    "hamlet_uniformise": "Beaumes",
+    "confidence": 0.95,
+    "ocr_text": "Apt\nVue des Beaumes\nColange. lib.-édit., Apt"
+  },
+  {
+    "file_name": "FRAD084_07FI003_0073.jpg",
+    "city": "Apt",
+    "monument_uniformise": "Crypte supérieure",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "Coll. Bureau de la Presse Catholique\nAPT (Vaucluse). — Sainte-Anne d'Apt. - Crypte supérieure (XIe siècle)."
+  },
+  {
+    "file_name": "FRAD084_07FI007_0067.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Palais des Papes",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "17. AVIGNON — Palais des Papes — Les Remparts et le Rhône"
+  },
+  {
+    "file_name": "FRAD084_07FI007_0158.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Palais des Papes",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": ""
+  },
+  {
+    "file_name": "FRAD084_07FI007_0375_01.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Pont St-Bénézet",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.99,
+    "ocr_text": "23 - AVIGNON - Le Pont St-Bénézet\nCliché et Edit. Félix Jean - Avignon\nREPUBLIQUE FRANÇAISE\n5c"
+  },
+  {
+    "file_name": "FRAD084_07FI007_0382.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Pont Saint Bénézet",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "AVIGNON. - Pont Saint Bénézet. - Première Arche et Chapelle IDEALE M. F. B."
+  },
+  {
+    "file_name": "FRAD084_07FI007_0414.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Porte de la Ligue",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "5. — Avignon. — La Porte de la Ligue. F. T., éditeur."
+  },
+  {
+    "file_name": "FRAD084_07FI007_0453.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Tour Carree des Remparts des Allées de Verdun",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.99,
+    "ocr_text": "Avignon — Tour Carree des Remparts des Allées de Verdun"
+  },
+  {
+    "file_name": "FRAD084_07FI007_0470.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Clocher de Jaquemart",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "13 AVIGNON. — Le Clocher de Jaquemart (Hôtel-de-Ville) ND Phot"
+  },
+  {
+    "file_name": "FRAD084_07FI007_0492_01.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Notre-Dame des Doms",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "AVIGNON. — Notre-Dame des Doms. Cathédrale et Tour Campane."
+  },
+  {
+    "file_name": "FRAD084_07FI007_0498.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Cathédrale",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "98 AVIGNON. - Cathédrale. - Le Porche (XIIe siècle). - ND SELECTA"
+  },
+  {
+    "file_name": "FRAD084_07FI007_0504.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "N.-D des Doms",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "AVIGNON. - N.-D des Doms. - Le Maître-Autel"
+  },
+  {
+    "file_name": "FRAD084_07FI007_0513.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Tombeau du Pape Jean XXII",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "46 Cathédrale d'AVIGNON Tombeau du Pape Jean XXII ND Phot"
+  },
+  {
+    "file_name": "FRAD084_07FI007_0586.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Statuaire renaissance",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "16 AVIGNON — Musée Calvet\nStatuaire renaissance provenant d'une maison d'AVIGNON\nÉdition D. C. P. I., Avignon"
+  },
+  {
+    "file_name": "FRAD084_07FI007_0590.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Buste d'Homme",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "375 — AVIGNON. Musée Calvet. Buste d'Homme, pierre (XVIe s.).\nN°257.\nAvignon. Musée Calvet.\nTête du XVIe siècle.\nND. Phot."
+  },
+  {
+    "file_name": "FRAD084_07FI007_0670.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Aucun monument",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "1. Avignon. 7° Genie, Manœuvre de pontage, pont terminé. Collection J. G."
+  },
+  {
+    "file_name": "FRAD084_07FI007_0677.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Pont sur le Rhône",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "Phototypie E. Lacour. — Marseille\nAvignon - 336 - Pont sur le Rhône par le 7me Génie - La Parade"
+  },
+  {
+    "file_name": "FRAD084_07FI007_0699.jpg",
+    "city": null,
+    "monument_uniformise": "Eglise de None",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "Mar"
+  },
+  {
+    "file_name": "FRAD084_07FI007_0714_01.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Aucun monument",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.99,
+    "ocr_text": null
+  },
+  {
+    "file_name": "FRAD084_07FI007_0719.jpg",
+    "city": null,
+    "monument_uniformise": "Aucun monument",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.99,
+    "ocr_text": ""
+  },
+  {
+    "file_name": "FRAD084_07FI007_0819.jpg",
+    "city": null,
+    "monument_uniformise": "Aucun monument",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "GUARDOONS TEAZLES SMITH & CO"
+  },
+  {
+    "file_name": "FRAD084_07FI007_0827.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Siège des Papes",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "109 CATHÉDRALE D'AVIGNON. Siège des Papes (XIe siècle) — ND"
+  },
+  {
+    "file_name": "FRAD084_07FI007_0834.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Palais des Papes",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.99,
+    "ocr_text": "104. AVIGNON. — Palais des Papes Cour de l'Esplanade et Façade orientale du palais. Construite sous Innocent VI (1352-1362) et Urbain V (1362-1370). Collection « TOURIST » E. Beau, édit. (Repr. int.)"
+  },
+  {
+    "file_name": "FRAD084_07FI007_0915.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Jardin Saint-Martial",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "AVIGNON. — Le Jardin Saint-Martial"
+  },
+  {
+    "file_name": "FRAD084_07FI007_0940.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Palais des Papes",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "42 AVIGNON - Vue générale du Palais des Papes — LL"
+  },
+  {
+    "file_name": "FRAD084_07FI007_0950.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Le Pont Suspendu",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "10. AVIGNON. — Le Pont Suspendu. Edit. P. Reynard, à la Havane; Avignon."
+  },
+  {
+    "file_name": "FRAD084_07FI007_0954.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "La Cathédrale et la Tour de la Campana",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.99,
+    "ocr_text": "11 AVIGNON. — La Cathédrale et la Tour de la Campana. — LL."
+  },
+  {
+    "file_name": "FRAD084_07FI007_0965.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Palais des Papes",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.99,
+    "ocr_text": "Phototypie E. Lacoeur Marseille 2394 - Avignon - Le Palais des Papes (Entrée Principale)"
+  },
+  {
+    "file_name": "FRAD084_07FI007_1063_01.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Pont St-Benézet et la Chapelle St-Nicolas",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.99,
+    "ocr_text": "26. AVIGNON — Pont St-Benézet et la Chapelle St-Nicolas"
+  },
+  {
+    "file_name": "FRAD084_07FI017_0008.jpg",
+    "city": "Bédoin",
+    "monument_uniformise": "Mont Ventoux",
+    "hamlet_uniformise": "des Baux",
+    "confidence": 0.98,
+    "ocr_text": "2 - Bédoin (Vaucluse). Hameau des Baux, au pied du Mont Ventoux Editions artistiques - J. Brun et Cie. Carpentras"
+  },
+  {
+    "file_name": "FRAD084_07FI019_0008_01.jpg",
+    "city": "Bollène",
+    "monument_uniformise": "N.-D. du Pont",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "LE VAUCLUSE ILLUSTRÉ — BOLLÈNE - 11. N.-D. du Pont\n\nLe chemin que petit jeune homme parcourre\n\nVoir la Mont Collection artistiques « Lux » — Lang fils aîné, phot.-edit. Orange\n\nLUX"
+  },
+  {
+    "file_name": "FRAD084_07FI020_0006_01.jpg",
+    "city": "Bonnieux",
+    "monument_uniformise": "Portail des Chèvres-Remparts",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "BONNIEUX (Vaucluse) Portail des Chèvres-Remparts (XIIIe siècle)"
+  },
+  {
+    "file_name": "FRAD084_07FI031_0079_01.jpg",
+    "city": "Carpentras",
+    "monument_uniformise": "Porte d'Orange",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "317 - CARPENTRAS - Façade de la Porte d'Orange\nAu Grand Livre - Félix Pinet, Carpentras"
+  },
+  {
+    "file_name": "FRAD084_07FI031_0119.jpg",
+    "city": "Carpentras",
+    "monument_uniformise": "Aucun monument",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "CARPENTRAS (Vaucluse) — Ceuillette des fraises"
+  },
+  {
+    "file_name": "FRAD084_07FI041_0033.jpg",
+    "city": "Cucuron",
+    "monument_uniformise": "Tour ronde de la Citadelle",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "42 CUCURON - Tour ronde de la Citadelle reliant à la Tour militaire de l'Eglise les remparts du portail de l'Etang (2me enceinte de 1545) Vue de l'Est Edition du Vieux Cucuron Cliché A. Castel"
+  },
+  {
+    "file_name": "FRAD084_07FI042_0002.jpg",
+    "city": "Entraigues-sur-la-Sorgue",
+    "monument_uniformise": "Aucun monument",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "SYMPHÔ JAZ D'ENTRAIGUES\nOrchestre réputé pour dancing"
+  },
+  {
+    "file_name": "FRAD084_07FI050_0024_01.jpg",
+    "city": "Gordes",
+    "monument_uniformise": "Eglise de Gordes",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": ""
+  },
+  {
+    "file_name": "FRAD084_07FI050_0033.jpg",
+    "city": "Gordes",
+    "monument_uniformise": "Aucun monument",
+    "hamlet_uniformise": "Rue de l'Échelle",
+    "confidence": 0.98,
+    "ocr_text": "GORDES. - Rue de l'Échelle"
+  },
+  {
+    "file_name": "FRAD084_07FI056_0001_01.jpg",
+    "city": "Jonquières",
+    "monument_uniformise": "Le Château de Picolette",
+    "hamlet_uniformise": "Picolette",
+    "confidence": 0.95,
+    "ocr_text": "JONCQUIÈRES (Vaucluse) — Le Château de Picolette - Route d'Orange"
+  },
+  {
+    "file_name": "FRAD084_07FI058_0002_01.jpg",
+    "city": "Lacoste",
+    "monument_uniformise": "Ancien Château",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "LACOSTE - Ruines de l'Ancien Château"
+  },
+  {
+    "file_name": "FRAD084_07FI069_0005_01.jpg",
+    "city": "Goult",
+    "monument_uniformise": "Aucun monument",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "POSTES REPUBLIQUE FRANCAISE 5c D'AGOULT"
+  },
+  {
+    "file_name": "FRAD084_07FI072_0001.jpg",
+    "city": "Mazan",
+    "monument_uniformise": "Eglise de Mazan",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "MAZAN (Vaucluse) — Vue générale. ÉDIT. PLA ERA"
+  },
+  {
+    "file_name": "FRAD084_07FI074_0004.jpg",
+    "city": "Mérindol",
+    "monument_uniformise": "Aucun monument",
+    "hamlet_uniformise": "Mérindol-le-Vieux",
+    "confidence": 0.98,
+    "ocr_text": "MÉRINDOL-le-VIEUX"
+  },
+  {
+    "file_name": "FRAD084_07FI081_0007_01.jpg",
+    "city": "Morières-lès-Avignon",
+    "monument_uniformise": "Place de la Mairie",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "MOIÈRES (Vaucluse) Place de la Mairie"
+  },
+  {
+    "file_name": "FRAD084_07FI087_0056.jpg",
+    "city": null,
+    "monument_uniformise": "Colosseum",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "Rella"
+  },
+  {
+    "file_name": "FRAD084_07FI087_0081_01.jpg",
+    "city": "Orange",
+    "monument_uniformise": "Théâtre Romain",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.99,
+    "ocr_text": "43 ORANGE. — Le Théâtre Romain, vue extérieure côté est. ND phot."
+  },
+  {
+    "file_name": "FRAD084_07FI087_0114.jpg",
+    "city": "Orange",
+    "monument_uniformise": "Arc de Triomphe d'ORANGE",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.99,
+    "ocr_text": "Arc de Triomphe d'ORANGE. Monument superbe aux admirables proportions, bâti sous Septime-Sévère, en l'honneur du retour d'un Général Romain, vainqueur des Voconces. (Le pays des Voconces est le territoire de Vaison). Maison Universelle « Nouvelles Galeries » Avignon. Reprod. interdite."
+  },
+  {
+    "file_name": "FRAD084_07FI087_0122.jpg",
+    "city": "Orange",
+    "monument_uniformise": "Arc de Triomphe",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "5I ORANGE - l'Arc de Triomphe. - LL"
+  },
+  {
+    "file_name": "FRAD084_07FI087_0185.jpg",
+    "city": "Orange",
+    "monument_uniformise": "Arc de Triomphe",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.99,
+    "ocr_text": "LE VAUCLUSE ILLUSTRÉ\nORANGE - 3\nL'Arc de Triomphe\n(côté Sud-Est)\n\nCollections artistiques « Lux » — Lang fils ainé, phot.-edit., Crest\nLUX"
+  },
+  {
+    "file_name": "FRAD084_07FI087_0186_01.jpg",
+    "city": "Orange",
+    "monument_uniformise": "Arc de Triomphe romain",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.99,
+    "ocr_text": "No 84 - J. Brun & Cie, Editeurs, d'Carpentras\nORANGE - Arc de Triomphe romain"
+  },
+  {
+    "file_name": "FRAD084_07FI087_0223_01.jpg",
+    "city": "Orange",
+    "monument_uniformise": "Aucun monument",
+    "hamlet_uniformise": "Pourtoules",
+    "confidence": 0.98,
+    "ocr_text": "378. ORANGE - Le Cours Pourtoules"
+  },
+  {
+    "file_name": "FRAD084_07FI087_0251_01.jpg",
+    "city": "Orange",
+    "monument_uniformise": "Porte Renaissance",
+    "hamlet_uniformise": "Rue de Tour",
+    "confidence": 0.95,
+    "ocr_text": "ORANGE Porte Renaissance, Rue de Tour"
+  },
+  {
+    "file_name": "FRAD084_07FI087_0267_01.jpg",
+    "city": null,
+    "monument_uniformise": "Amphithéâtre romain d'Orange",
+    "hamlet_uniformise": "Jon",
+    "confidence": 0.95,
+    "ocr_text": "Jon"
+  },
+  {
+    "file_name": "FRAD084_07FI087_0275_01.jpg",
+    "city": "Orange",
+    "monument_uniformise": "Théâtre Romain",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "98 ORANGE. — Le Théâtre Romain, Entrée de l'Amphithéâtre. ND Phot."
+  },
+  {
+    "file_name": "FRAD084_07FI087_0298.jpg",
+    "city": "Orange",
+    "monument_uniformise": "Théâtre Romain",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "94 ORANGE. — Le Théâtre Romain."
+  },
+  {
+    "file_name": "FRAD084_07FI087_0300_01.jpg",
+    "city": "Orange",
+    "monument_uniformise": "Théâtre Romain",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "682 Orange - Le Théâtre Romain, côté Ouest Guende phot. Marseille"
+  },
+  {
+    "file_name": "FRAD084_07FI087_0310.jpg",
+    "city": "Orange",
+    "monument_uniformise": "Le Génie Moderne offre une palme au Génie Antique",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "655. ORANGE — Le Génie Moderne offre une palme au Génie Antique (par Injalbert)"
+  },
+  {
+    "file_name": "FRAD084_07FI088_0023_01.jpg",
+    "city": "Pernes-les-Fontaines",
+    "monument_uniformise": "Porte et Remparts",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "PERNES (Vaucluse) — Porte et Remparts"
+  },
+  {
+    "file_name": "FRAD084_07FI089_0029_01.jpg",
+    "city": "Pertuis",
+    "monument_uniformise": "Tour du XIVe siècle",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "25 PERTUIS. — Vestiges des Anciens Remparts. (Tour du XIVe siècle). LL"
+  },
+  {
+    "file_name": "FRAD084_07FI089_0038.jpg",
+    "city": "Pertuis",
+    "monument_uniformise": "Aucun monument",
+    "hamlet_uniformise": "Les Greniers",
+    "confidence": 0.95,
+    "ocr_text": "CREST ET AUBERGER ÉDIT\nGRAND CAFE THOMAS\nPertuis - Les Greniers"
+  },
+  {
+    "file_name": "FRAD084_07FI097_0001_01.jpg",
+    "city": "Richerenches",
+    "monument_uniformise": "Portail et Cours Sud",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "220 bis. RICHERENCHES (Vaucluse) Portail et Cours Sud"
+  },
+  {
+    "file_name": "FRAD084_07FI114_0001_01.jpg",
+    "city": "Saint-Pantaléon",
+    "monument_uniformise": "Aucun monument",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "St-Pantaléon (Vaucluse) - Vue Générale"
+  },
+  {
+    "file_name": "FRAD084_07FI123_0042.jpg",
+    "city": "Sault",
+    "monument_uniformise": "Aucun monument",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.99,
+    "ocr_text": "2 — SAULT - Vue générale (2° vue) Editions J. Brun et Cie, Carpentras"
+  },
+  {
+    "file_name": "FRAD084_07FI124_0001_01.jpg",
+    "city": "Sorgues",
+    "monument_uniformise": "Aucun monument",
+    "hamlet_uniformise": "Saumanes-de-Vaucluse",
+    "confidence": 0.95,
+    "ocr_text": "ARCHIVES PROPRIETE PUBLIQUE DE VAUCLUSE Saumane près l'Isle de Sorgue, V."
+  },
+  {
+    "file_name": "FRAD084_07FI124_0003.jpg",
+    "city": "Saumanes-de-Vaucluse",
+    "monument_uniformise": "Eglise de Saumanes-de-Vaucluse",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "Saumanes (Vaucluse)"
+  },
+  {
+    "file_name": "FRAD084_07FI129_0001.jpg",
+    "city": "Sorgues",
+    "monument_uniformise": "Eglise de Sorgues",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "1096 (bis) — SORGUES - L'Eglise Editions J. Brun & Cie, Carpentras"
+  },
+  {
+    "file_name": "FRAD084_07FI129_0002.jpg",
+    "city": "Sorgues",
+    "monument_uniformise": "Aucun monument",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.99,
+    "ocr_text": "1996 — SORGUES - Vue d'ensemble et la Sorgues\nEditions J. Brun & Cie, Carpentras"
+  },
+  {
+    "file_name": "FRAD084_07FI132_0022_01.jpg",
+    "city": "Thor (Le)",
+    "monument_uniformise": "Ruines de Thouzon",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "LE THOR (Vaucluse). - Grotte de Thouzon\n10. - Ruines de Thouzon - Vue d'ensemble\nEdition L. Challe - Cliché J. Bascou"
+  },
+  {
+    "file_name": "FRAD084_07FI137_0030_01.jpg",
+    "city": "Vaison-la-Romaine",
+    "monument_uniformise": "Cloître",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "Vendredi 28/3/02\nL. Revoul, aux Dix mille Articles, Valréas\n34. - VAISON. - Cloitre Xe siècle\nDaury"
+  },
+  {
+    "file_name": "FRAD084_07FI137_0112.jpg",
+    "city": "Vaison-la-Romaine",
+    "monument_uniformise": "Le Pont Romain",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "Vaison. — Le Pont Romain"
+  },
+  {
+    "file_name": "FRAD084_07FI138_0004.jpg",
+    "city": "Valréas",
+    "monument_uniformise": "L'Eglise - Abside",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "45 bis. VALRÉAS (Vaucluse) — L'Eglise - Abside (VIIIe siècle) Édit Artistique Th. Revoul « Aux Dix Mille Articles », Valréas. J. Monnier, tabacs, Valréas"
+  },
+  {
+    "file_name": "FRAD084_07FI139_0028.jpg",
+    "city": "Fontaine-de-Vaucluse",
+    "monument_uniformise": "Aucun monument",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "p. Martin a Vaucluse\nFONTAINE DE VAUCLUSE - PROMENADE DU BATEAU A VAPEUR (LA BELLE LAURE)\nSUR LE LAC EN ETÉ"
+  },
+  {
+    "file_name": "FRAD084_07FI139_0035.jpg",
+    "city": "Carpentras",
+    "monument_uniformise": "Laure",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "No 41. J. Brun & Cie, éditeurs à Carpentras\nGnard & fils Phot. Reproduction Interdite L. Desmarest P.44\nLAURE\nPortrait reconstitué avec les documents de Florence\net de la Bibliothèque de Carpentras\nVAUCLUSE - Laure"
+  },
+  {
+    "file_name": "FRAD084_07FI139_0059_01.jpg",
+    "city": "Vaucluse",
+    "monument_uniformise": "La Cascade",
+    "hamlet_uniformise": "La Cascade",
+    "confidence": 0.95,
+    "ocr_text": "Collection Assalix, Avignon. 48 - VAUCLUSE. - La Cascade. Vaucluse 1er mars 1902."
+  },
+  {
+    "file_name": "FRAD084_07FI139_0088.jpg",
+    "city": "Fontaine-de-Vaucluse",
+    "monument_uniformise": "Aucun monument",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "P Martin a Vaucluse\nFONTAINE DE VAUCLUSE - L'AIGUILLE RIVE GAUCHE"
+  },
+  {
+    "file_name": "FRAD084_07FI139_0094.jpg",
+    "city": "Fontaine-de-Vaucluse",
+    "monument_uniformise": "Aucun monument",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "9. - FONTAINE DE VAUCLUSE\nLa Place (2e vue).\nEditions J. Brun et Cie. Carpentras"
+  },
+  {
+    "file_name": "FRAD084_07FI139_0152.jpg",
+    "city": "Carpentras",
+    "monument_uniformise": "Aqueduc de Gallas",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "47 - VAUCLUSE - Aqueduc de Gallas (2e vue) Editions J. Brun & Cie, Carpentras"
+  },
+  {
+    "file_name": "FRAD084_07FI152_0002.jpg",
+    "city": "Carpentras",
+    "monument_uniformise": "Mont Ventoux",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "No 86 bis - J. Brun & Cie, Editeurs, à Carpentras\nLe Mont VENTOUX - D'après un Tableau de M. Jules LAURENS, Musée de CARPENTRAS"
+  },
+  {
+    "file_name": "FRAD084_07FI152_0004.jpg",
+    "city": "Mont Ventoux",
+    "monument_uniformise": "Col des Tempêtes",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "No 89 ter - J. Brun & Cie, Editeurs, à Carpentras\nJ. Eysseris\nLe Mont VENTOUX - La Route au Col des Tempêtes"
+  },
+  {
+    "file_name": "FRAD084_07FI152_0018.jpg",
+    "city": "Mont Ventoux",
+    "monument_uniformise": "Aucun monument",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": ""
+  },
+  {
+    "file_name": "FRAD084_07FI152_0020.jpg",
+    "city": "Avignon",
+    "monument_uniformise": "Aucun monument",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "BARTESACO\nAVIGNON"
+  },
+  {
+    "file_name": "FRAD084_07FI152_0046.jpg",
+    "city": "Mont Ventoux",
+    "monument_uniformise": "Terrasse d'observation et l'Observatoire",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "10. Le MONT-VENTOUX sous la neige (altitude 1.908 mètres La Terrasse d'observation et l'Observatoire (côte Ouest) Edit. J. Brun et Cie, Carpentras"
+  },
+  {
+    "file_name": "FRAD084_07FI152_0071.jpg",
+    "city": "Mont Ventoux",
+    "monument_uniformise": "Chapelle de la Sainte-Croix",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.95,
+    "ocr_text": "23. Le Mont-Ventoux (Vaucluse) Altitude 1908 m. — Chapelle de la Sainte-Croix Citerne et Galerie Couverte Editions Artistiques La Brun et Cie. Carpentras"
+  },
+  {
+    "file_name": "FRAD084_07FI152_0094.jpg",
+    "city": "Mont Ventoux",
+    "monument_uniformise": "L'Observatoire",
+    "hamlet_uniformise": "Aucun lieu-dit",
+    "confidence": 0.98,
+    "ocr_text": "6. — Le Mont-Ventoux. — (Altitude 1908 m.) — L'Observatoire (vue côté ouest). A gauche le hangard. Au milieu, les rampes d'accès au point culminant où se trouve la plateforme d'observations au dessous de laquelle a été élevé l'Observatoire, mis ainsi à l'abri du vent du nord. - Vue prise le 20 septembre 1903, jour de courses d'automobiles. Maison Universelle ,, Nouvelles Galeries ,, Carpentras. Reprod. interdite,"
+  }
+]

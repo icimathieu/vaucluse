@@ -1,0 +1,54 @@
+Nous avons pu annoter manuellement 84 cartes postales (voir ./data/benchmark_84cartes/corpus_manuel_benchmark.jsonl).
+Nous avions exécuté les 2 premières étapes de VLM avec QWEN3 (voir ./scripts_notebooks/etapes1-2_QWEN3.ipynb et ./scripts_notebooks/script_cartes_postales.py) sur ces 84 mêmes cartes qui comportent pour l'essentiel un texte imprimé décrivant une photographie (et rarement une gravure) placée au-dessus.
+Nous avions décidé de 3 niveaux de précision que nous comparons un à un : 
+    - la commune
+    - le lieu-dit/quartier/place
+    - le monument
+
+Voici notre méthodologie quant à nos mesures de performance sur la baseline QWEN (étapes 1 et 2) appliquée à 84 cartes : 
+1 - nous avons considéré comme une erreur : 
+    - lorsque la carte n'a pas de texte imprimé et qu'il identifie un lieu grâce à sa du texte photographié (souvent un nom de boutique) et qu'il se trompe ainsi de ville/lieu-dit/monument (4 occurences dont 1 pour le champ "commune" et 3 pour le champ "monument")
+    - lorsqu'il renseigne dans le niveau de précision "monument" seulement une partie du monument ou un niveau de précision trop élevé au sein du monument (6 occurences, souvent en retournant "crypte" ou "tombeau" au sein d'édifices religieux)
+    - lorsque plusieurs monuments sont renseignés et qu'il n'en renseigne qu'un seul dans le champ "monument" (2 occurences)
+    - lorsqu'il a interprété un ancien nom de commune (nous lui fournissions les noms récents) comme un nom de lieu-dit (1 occurence)
+    - évidemment, dans les cas plus simples où il a inversé le nom de la commune avec celui du lieu-dit ou du monument et lorsqu'il a interprété le lieu d'imprimerie comme la commune représentée
+
+2 - nous avons considéré comme un succès : 
+    - lorsque la carte n'a pas de texte imprimé et qu'il identifie un lieu grâce à une analyse de la photographie et qu'il donne ainsi la bonne réponse (3 occurences, les 3 pour le palais des papes)
+    - lorsqu'il renseigne dans le niveau de précision "monument" seulement le monument, ne renseignant pas conjointement un niveau de précision plus élevé (4 occurences, souvent le nom de l'édifice religieux, mais la mention "crypte", "tombeau" passe à la trappe)
+    - lorsque plusieurs monuments sont renseignés et qu'il les renseigne tous dans le champ "monument" (4 occurences)
+
+Après avoir exécuté l'avant-dernière cellule de ./scripts_notebooks/corpus_benchmark.ipynb on obtient (voir aussi la présentation dans ./presentation_hackathon.pdf et les plots dans ./data/benchmark_84cartes/plots) : 
+"""
+5 villes pour lesquelles on a pas le nom de la ville sur la carte
+city: total=84 errors=9 
+monument_uniformise: total=84 errors=17 
+hamlet_uniformise: total=84 errors=7 
+ 
+hamlet_uniformise == 'Aucun lieu-dit' (manual): 72
+hamlet_uniformise == 'Aucun lieu-dit' (auto/qwen): 73
+hamlet_uniformise == 'Aucun lieu-dit' (both): 70
+ 
+monument_uniformise == 'Aucun monument' (manual): 30
+monument_uniformise == 'Aucun monument' (auto/qwen): 21
+monument_uniformise == 'Aucun monument' (both): 21
+ 
+city == 'Aucune ville' (manual): 5
+city == 'Aucune ville' (auto/qwen): 0
+city == 'Aucune ville' (both): 0
+"""
+
+On observe donc un très bon rappel/sensibilité quant aux villes et aux lieu-dit. 
+Par rapport au lieu-dit il est même assez efficace pour ne pas en renseigner lorsqu'il n'y a effectivement pas d'information sur la carte, en ce sens il "hallucine" peu. Ce qui n'est pas vrai des villes puisqu'il n'a jamais renseigné 'Aucune ville', c'est plus mitifé quant aux monuments (seulement 21 résultat "Aucun monument" alors que sur 30 cartes les monuments n'étaient pas textuellement décrits)
+Les taux d'erreur pour les villes et les lieux-dits sont autour de 10% chacun, ce dont on peut considérer cela raisonnablement bon étant donné que nous n'avons toujours pas réussi à faire vérifier ces données prédites par les base de données (notamment TOPO et Mérimée).
+Évidemment le taux d'erreur est légèrement supérieur à 20% pour les monuments. Ce qui va aussi avec notre méthodologie assez rigoureuse exposée ci-dessus. Toutefois, dans le cadre de ce projet, étant donné que cette erreur ne conduira qu'à un mauvais géoréférencement au sein même de la ville (grâce à notre condition de distance par rapport à la coordonnée sûre de la ville), ce n'est pas trop grave. Bien sûr, il serait tentant de réussir à implémenter une vérification avec la base Mérimée (API ou non)...
+
+---
+
+Nous n'avons pu réaliser de benchmark consistant sur notre 4è étape de géoréférencement avec notimim (./scripts_notebooks/Géoréférencement_nominatim_carto.ipynb). 
+Toutefois notre condition de distance de 20kms entre le centre de la commune et l'emplacement prédit avec Nomitim a été activée positivement (supprimant la prédiction) 100 fois sur 2500 cartes (les 335 premières ayant été traitées différemment).
+Qui plus est nomitim n'a pu renseigner de coordonnées plus précise que la commune dans 958 cas sur 2500. On peut donc questionner l'exhaustivité de cete base de données. Toutefois cela relevait à nouveau d'un niveau de pécision supplémentaire à celui demandé dans le cadre du projet. 
+
+--- 
+
+Notons que le 10% d'erreur dans la prédiction de la commune ne doit pas troubler, étant donné que nous n'avons (préférentiellement) pas utiliser la prédiction de la commune par QWEN mais celle récupérée via les métadonnées présentes sur le site des archives du Vaucluse, faite par des mains expertes. Ainsi on peut raisonnablement affirmer que le taux d'erreur de géoréférencement de la carte postale dans une autre commune est très faible.
