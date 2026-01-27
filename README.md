@@ -36,3 +36,9 @@ Garnier Mathias : étudiant en M1 Humanités Numériques à l'ENC.
 Létoffé Maxime : étudiant en M1 Humanités Numériques à l'ENC.
 Rivière Mathieu : étudiant en M1 Humanités Numériques à l'ENC.
 Vidal-Gorène Chahan : respondable du master Humanités Numériques à l'ENC.
+
+## Partenaires
+
+| École des chartes (PSL) | Département de Vaucluse |
+| --- | --- |
+| ![École des chartes](data/logos/logo-chartes-psl-coul_0.png) | ![Vaucluse](data/logos/logo-dept-vaucluse-2025.svg_.png) |
