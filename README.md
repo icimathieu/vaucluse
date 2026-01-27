@@ -39,6 +39,6 @@ Vidal-Gorène Chahan : respondable du master Humanités Numériques à l'ENC.
 
 ## Partenaires
 
-| École des chartes (PSL) | Département de Vaucluse |
+| École nationale des chartes - PSL | Département du Vaucluse |
 | --- | --- |
 | ![École des chartes](data/logos/logo-chartes-psl-coul_0.png) | ![Vaucluse](data/logos/logo-dept-vaucluse-2025.svg_.png) |
