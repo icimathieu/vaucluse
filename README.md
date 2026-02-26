@@ -37,6 +37,14 @@ Létoffé Maxime : étudiant en M1 Humanités Numériques à l'ENC.
 Rivière Mathieu : étudiant en M1 Humanités Numériques à l'ENC.
 Vidal-Gorène Chahan : respondable du master Humanités Numériques à l'ENC.
 
+## Licence et réutilisation
+
+- Le dépôt est diffusé sous licence `Apache-2.0` (fichier `LICENSE` à la racine du dépôt GitHub).
+- Les réutilisations sont autorisées, y compris: usage privé/public, modification, redistribution et usage commercial.
+- Toute redistribution doit conserver les mentions de licence et de copyright prévues par Apache-2.0.
+- Un fichier `NOTICE` est fourni à la racine pour rappeler l'attribution du projet et l'absence d'endossement des versions dérivées.
+- Si vous réutilisez ce travail dans un contexte académique/public, merci de citer le dépôt
+
 ## Partenaires
 
 | École nationale des chartes - PSL | Département du Vaucluse |
