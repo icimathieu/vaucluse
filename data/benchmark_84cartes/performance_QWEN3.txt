@@ -47,7 +47,7 @@ Les taux d'erreur pour les villes et les lieux-dits sont autour de 10% chacun, c
 
 Nous n'avons pu réaliser de benchmark consistant sur notre 4è étape de géoréférencement avec notimim (./scripts_notebooks/Géoréférencement_nominatim_carto.ipynb). 
 Toutefois notre condition de distance de 20kms entre le centre de la commune et l'emplacement prédit avec Nomitim a été activée positivement (supprimant la prédiction) 100 fois sur 2500 cartes (les 335 premières ayant été traitées différemment).
-Qui plus est nomitim n'a pu renseigner de coordonnées plus précise que la commune dans 958 cas sur 2500. On peut donc questionner l'exhaustivité de cete base de données. Toutefois cela relevait à nouveau d'un niveau de pécision supplémentaire à celui demandé dans le cadre du projet. 
+Qui plus est nomitim n'a pu renseigner de coordonnées plus précise que la commune dans 958 cas sur 2500. On peut donc questionner l'exhaustivité de cette base de données. Toutefois cela relevait à nouveau d'un niveau de précision supplémentaire à celui demandé dans le cadre du projet. 
 
 --- 
 
